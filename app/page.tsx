@@ -14,6 +14,7 @@ export default function Home() {
         <ul className="list-disc space-y-2">
           <li className="text-green-600">/csr</li>
           <li className="text-blue-600">/ssr</li>
+          <li className="text-blue-600">/clientcomponent   (rendering client compnent with server component)</li>
         </ul>
       </div>
     </main>
